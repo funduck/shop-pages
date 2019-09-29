@@ -1,3 +1,9 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
+[Contacts](contacts)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/funduck/shop-pages/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -25,6 +31,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+![Image](./lama.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
