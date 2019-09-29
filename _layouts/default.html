@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <div>
+        <div>
+            <img src="/images/lama.jpg" style="width: 100pt"> 
+            <b>mis-knitting</b><br>
+            Безграничное самовыражение 
+        </div>
+        <div>
+            <a href="mailto:mis.knitting@gmail.com">Связаться</a>
+        </div>
+    </div>
+    
+
+    <div>
+        <div>
+            <nav style="padding: 2pt; background-color:rgba(100,200,255,0.8)">
+              <a href="/">Магазин</a>
+              <a href="/masters">Мастера</a>
+              <a href="/cooperation">Сотрудничество</a>
+              <a href="/contacts">Контакты</a>
+              <a href="/docs">Документы</a>
+            </nav>
+
+            <h1>{{ page.excerpt }}</h1>
+            <section>
+              {{ content }}
+            </section>
+        </div>
+    </div>
+
+
+    <footer>
+      &copy; to me
+    </footer>
+  </body>
+</html>

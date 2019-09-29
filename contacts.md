@@ -1,8 +1,7 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Контакты
+excerpt: Многие талантливые рукодельницы ищут способ реализации своих товаров. Почему бы нам не объединиться?
 ---
-
-# Contacts
 
 * address
 * mail
