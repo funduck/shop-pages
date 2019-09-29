@@ -32,9 +32,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-[Согласие на обработку данных](./soglasie.docx)
+[Согласие на обработку данных](attachments/soglasie.docx)
 
-![Image](./lama.jpg)
+![Image](images/lama.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
