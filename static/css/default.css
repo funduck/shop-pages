@@ -1,0 +1,16 @@
+/* стиль для тега */
+nav {
+    padding: 2pt;
+    background-color: rgba(100,200,255,0.8);
+}
+
+/* стиль класса */
+.page-top {
+    background-color: lightblue;
+}
+
+/* ещё стиль тега */
+section {
+    padding-left: 50pt;
+    padding-right: 50pt;
+}

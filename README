@@ -34,6 +34,9 @@
 
 Всё что ниже будет `content` он же `page.content` при доступе в шаблоне 
 
+# Стили
+см пример используемого стиля в шаблоне _layout/default.html и в static/css/default.css
+
 # Ссылки
 
 про переменные https://jekyllrb.com/docs/front-matter/
