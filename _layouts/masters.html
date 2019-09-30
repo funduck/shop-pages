@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% for master in site.masters %}
+{% for master in site.collection_masters %}
 <div>
-  <img src="images/{{ master.image }}" style="width: 200pt">
+  <img src="static/images/{{ master.image }}" style="width: 200pt">
   <h2>{{ master.role }}</h2>
   <h3>{{ master.name }}</h3>
   <p>{{ master.content | markdownify }}</p>
